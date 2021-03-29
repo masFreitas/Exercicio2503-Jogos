@@ -10,3 +10,7 @@ ou
 "Minha animação é um leão andando, por tanto deve ter um chão e ele deve interagir com o chão se movimentando para onde a animação permite."
 
 Não pode ser utilizado os assets da aula.
+
+
+COMANDOS:
+BOTÃO ESQUERDO DO MOUSE PARA MOVIMENTO, ESTILO FLAPPY BIRD
